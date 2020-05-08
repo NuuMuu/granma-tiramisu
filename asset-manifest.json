@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/granma-tiramisu/static/css/main.83511bf8.chunk.css",
+    "main.js": "/granma-tiramisu/static/js/main.90b2be93.chunk.js",
+    "main.js.map": "/granma-tiramisu/static/js/main.90b2be93.chunk.js.map",
+    "runtime-main.js": "/granma-tiramisu/static/js/runtime-main.21854e73.js",
+    "runtime-main.js.map": "/granma-tiramisu/static/js/runtime-main.21854e73.js.map",
+    "static/css/2.89f067aa.chunk.css": "/granma-tiramisu/static/css/2.89f067aa.chunk.css",
+    "static/js/2.046834be.chunk.js": "/granma-tiramisu/static/js/2.046834be.chunk.js",
+    "static/js/2.046834be.chunk.js.map": "/granma-tiramisu/static/js/2.046834be.chunk.js.map",
+    "index.html": "/granma-tiramisu/index.html",
+    "precache-manifest.b6156acc5907be98fceb3fb8d6c11319.js": "/granma-tiramisu/precache-manifest.b6156acc5907be98fceb3fb8d6c11319.js",
+    "service-worker.js": "/granma-tiramisu/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/granma-tiramisu/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.83511bf8.chunk.css.map": "/granma-tiramisu/static/css/main.83511bf8.chunk.css.map",
+    "static/js/2.046834be.chunk.js.LICENSE.txt": "/granma-tiramisu/static/js/2.046834be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21854e73.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.046834be.chunk.js",
+    "static/css/main.83511bf8.chunk.css",
+    "static/js/main.90b2be93.chunk.js"
+  ]
+}
